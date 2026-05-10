@@ -45,7 +45,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,ros,docker,linux,cmake,pcl,opencv&theme=dracula" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,ros,docker,linux,cmake,pcl,opencv&theme=dark" />
   </a>
 </p>
 
