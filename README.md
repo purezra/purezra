@@ -36,8 +36,8 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/purezra/doctor_slam">
-        <img src="./assets/pin-doctor-slam.svg" />
+      <a href="https://github.com/purezra/ohmydocker">
+        <img src="./assets/pin-ohmydocker.svg" />
       </a>
     </td>
   </tr>

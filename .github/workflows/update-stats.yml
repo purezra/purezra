@@ -62,14 +62,14 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       # ----------------------------------------------------------
-      # Pin Card — doctor_slam
+      # Pin Card — ohmydocker
       # ----------------------------------------------------------
-      - name: Generate pin card for doctor_slam
+      - name: Generate pin card for ohmydocker
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: "username=${{ github.repository_owner }}&repo=doctor_slam&theme=dracula&hide_border=true"
-          path: assets/pin-doctor-slam.svg
+          options: "username=${{ github.repository_owner }}&repo=ohmydocker&theme=dracula&hide_border=true"
+          path: assets/pin-ohmydocker.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       # ----------------------------------------------------------
